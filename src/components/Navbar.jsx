@@ -18,7 +18,7 @@ function Navbar() {
   state={isNavOpen ? 1 : 0}
   >
     <div className="brand__container">
-      <a href="#" className='brand'>
+      <a href="" className='brand'>
         <img src={logo} alt="logo" />
       </a>  
       <div className="toggle">
